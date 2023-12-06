@@ -521,9 +521,10 @@ _Wagtail, the powerful CMS for modern websites._
 
 _django CMS, lean enterprise content management._
 
-## django CMS Resources
+### django CMS Resources
 <!--lint disable double-link-->
 - [Official website](https://django-cms.org/)
 - [Developer documentation](https://docs.django-cms.org/)
 - [User documentation](https://django-cms-docs.readthedocs.io/en/staging/user/index.html)
 - [django CMS Source Code](https://github.com/django-cms/django-cms/)
+<!--lint enable double-link-->
