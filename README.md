@@ -150,7 +150,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 <!--lint disable double-link-->
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail](https://github.com/springload/awesome-wagtail) too.
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework.
-- [django-cms](https://github.com/divio/django-cms) - CMS for Django.
+- [django CMS](https://github.com/django-cms/django-cms) - CMS for Django.
 - [feincms](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail.
 <!--lint enable double-link-->
@@ -181,6 +181,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Django app for processing images for thumbnail, black-and-white and sizes.
 - [django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
 - [sorl-thumbnail](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
+- [django-filer](https://github.com/django-cms/django-filer) - Manage and organize media assets from the admin
 
 ### Forms
 - [django-bleach](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models.
@@ -515,3 +516,14 @@ _Wagtail, the powerful CMS for modern websites._
 - [This week in Wagtail](https://wagtail.org/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
 - [Wagtail Space](https://www.wagtail.space/) - Wagtail CMS events around the world.
 <!--lint enable double-link-->
+
+## django CMS
+
+_django CMS, lean enterprise content management._
+
+## django CMS Resources
+<!--lint disable double-link-->
+- [Official website](https://django-cms.org/)
+- [Developer documentation](https://docs.django-cms.org/)
+- [User documentation](https://django-cms-docs.readthedocs.io/en/staging/user/index.html)
+- [django CMS Source Code](https://github.com/django-cms/django-cms/)
