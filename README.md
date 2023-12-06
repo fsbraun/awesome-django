@@ -527,4 +527,5 @@ _django CMS, lean enterprise content management._
 - [Developer documentation](https://docs.django-cms.org/)
 - [User documentation](https://django-cms-docs.readthedocs.io/en/staging/user/index.html)
 - [django CMS Source Code](https://github.com/django-cms/django-cms/)
+- [django CMS Slack channel](https://django-cms.org/slack)
 <!--lint enable double-link-->
